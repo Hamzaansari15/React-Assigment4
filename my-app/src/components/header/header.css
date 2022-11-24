@@ -10,9 +10,22 @@
 #header_link{
     font-size: 16px;
     color: #414143;
-    font-weight: 545;
+    font-weight: 550;
     line-height: 1.5px;
     word-spacing: 1px;
+    margin: 0px 12px;
+    font-family: Helvetica, sans-serif;
+}
+@media only screen and (max-width: 430px) {
+    #header_link{
+        font-size: 12px;
+        word-spacing: 0px;
+        font-weight: 550;
+        margin: 0px 8px;
+    } 
+    #host_box{
+        display: none;
+    }
 }
 #header_link:hover{
     opacity: 0.7;
@@ -65,15 +78,17 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(//resources.turo.com/f/81934/1500x400/1b78692b7b/hp_ny_1500x400_2.jpg);
-    background-position: center;
+    background-position-y: center;
+    background-position-x: calc(100% - 40%);
 }
 #main_date_peaker{
-    width: 100%;
+    width: 90%;
     height: 6.75em;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     background-color: transparent;
+    margin: 0px auto;
 }
 #date_peaker{
     width: 58.75em;
@@ -83,4 +98,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0px 16px;
+}
+#date_peaker input{
+    border: none;
+    outline: none;
+}
+#location_picker{
+    width: 20em;
+    margin: 0px 4px;
+    border-right: 1px solid black;
+}
+.date_picker{
+    width: 15em;
+    margin: 0px 4px;
 }
