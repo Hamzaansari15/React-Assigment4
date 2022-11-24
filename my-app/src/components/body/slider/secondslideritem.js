@@ -24,7 +24,7 @@ const SecondSliderItem = () => {
                                 </div>
                                 <div className="slider_box2">
                                     <div className="slider_heading2">Find the perfect car
-                                        <span> to conquer the great outdoors</span>
+                                        <span> to the great outdoors</span>
                                     </div>
                                     <div className="slider_text2">Go prepared in a rugged 4x4 to take on winter roads with ease, or a camper van to take you to the trees.</div>
                                     <button className="button">Browse cars</button>                                
@@ -51,7 +51,7 @@ const SecondSliderItem = () => {
                                 </div>
                                 <div className="slider_box2">
                                     <div className="slider_heading2">Find the perfect car
-                                        <span> to upgrade your vacation plans</span>
+                                        <span> to your vacation plans</span>
                                     </div>
                                     <div className="slider_text2">Skip the rental car counter and find the perfect car to complement your vacation vibe.</div>
                                     <button className="button">Browse cars</button>                                </div>
