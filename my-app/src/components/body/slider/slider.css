@@ -166,6 +166,9 @@
     #slider2{
         left: 4em;
     }
+    .slider_text2{
+        width: 22em;
+    }
 }
 @media only screen and (max-width: 550px){
     #slider2{
@@ -182,7 +185,7 @@
     font-size: 24px;
     }
     .slider_text2{
-        width: 16em;
+        width: 18em;
     }
 }
 @media only screen and (max-width: 400px){
@@ -194,10 +197,13 @@
         left: 0em;
     }
     .slider_heading2{
-        width: 8em;
+        width: 10em;
         font-size: 24px;
         }
         .slider_text2{
             width: 14em;
         }
 }
+
+
+/*        WORKING       FOR      THIRD      SLIDER */

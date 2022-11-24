@@ -11,6 +11,7 @@ export default class SwipeToSlide extends Component {
     render() {
         const settings = {
             rows: 1,
+            speed: 300,
             slidesPerRow: 1,
             slidesToShow: 5,
             infinite: true,
