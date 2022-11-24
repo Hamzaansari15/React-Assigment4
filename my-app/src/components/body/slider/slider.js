@@ -3,7 +3,8 @@ import React, { Component } from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './slider.css';
-import FirstSliderItem from "./sliderItem";
+import  FirstSliderItem from "./firstsliderItem";
+
 
 
 export default class SwipeToSlide extends Component {
@@ -18,11 +19,11 @@ export default class SwipeToSlide extends Component {
             lazyLoad: true,
             responsive: [
                 {
-                  breakpoint: 1200,
-                  settings: {
-                      slidesToShow: 5,
-                      slidesToScroll: 1,
-                  }
+                    breakpoint: 1200,
+                    settings: {
+                        slidesToShow: 5,
+                        slidesToScroll: 1,
+                    }
                 },
                 {
                     breakpoint: 1080,
@@ -36,7 +37,7 @@ export default class SwipeToSlide extends Component {
                     settings: {
                         slidesToShow: 3,
                         slidesToScroll: 1,
-                        arrows: true               
+                        arrows: true
                     }
                 },
                 {
@@ -44,7 +45,7 @@ export default class SwipeToSlide extends Component {
                     settings: {
                         slidesToShow: 2,
                         slidesToScroll: 1,
-                        arrows: true               
+                        arrows: true
                     }
                 },
                 {
@@ -56,8 +57,8 @@ export default class SwipeToSlide extends Component {
                     }
                 }
             ]
-    
-          };
+
+        };
         const imageArr = [
             'https://resources.turo.com/f/81934/386x308/9bf274f19e/image_make_jeep-2x.jpg',
             'https://resources.turo.com/f/81934/386x308/7dcf9bff19/image_make_tesla-2x.jpg',
@@ -83,25 +84,27 @@ export default class SwipeToSlide extends Component {
             'Ford'
         ]
         return (
-            <div className="main_slider">
-                <div className="slider" >
-                    <h2 id="slider_heading">Browse by make</h2>
-                    <Slider {...settings}>
-                        
-                        <FirstSliderItem image={imageArr[0]} title={titleArr[0]} />
-                        <FirstSliderItem image={imageArr[1]} title={titleArr[1]}/>
-                        <FirstSliderItem image={imageArr[2]} title={titleArr[2]}/>
-                        <FirstSliderItem image={imageArr[3]} title={titleArr[3]}/>
-                        <FirstSliderItem image={imageArr[4]} title={titleArr[4]}/>
-                        <FirstSliderItem image={imageArr[5]} title={titleArr[5]}/>
-                        <FirstSliderItem image={imageArr[6]} title={titleArr[6]}/>
-                        <FirstSliderItem image={imageArr[7]} title={titleArr[7]}/>
-                        <FirstSliderItem image={imageArr[8]} title={titleArr[8]}/>
-                        <FirstSliderItem image={imageArr[9]} title={titleArr[9]}/>
+            <>
+                <div className="main_slider">
+                    <div className="slider" >
+                        <h2 id="slider_heading">Browse by make</h2>
+                        <Slider {...settings}>
 
-                    </Slider>
+                            <FirstSliderItem image={imageArr[0]} title={titleArr[0]} />
+                            <FirstSliderItem image={imageArr[1]} title={titleArr[1]} />
+                            <FirstSliderItem image={imageArr[2]} title={titleArr[2]} />
+                            <FirstSliderItem image={imageArr[3]} title={titleArr[3]} />
+                            <FirstSliderItem image={imageArr[4]} title={titleArr[4]} />
+                            <FirstSliderItem image={imageArr[5]} title={titleArr[5]} />
+                            <FirstSliderItem image={imageArr[6]} title={titleArr[6]} />
+                            <FirstSliderItem image={imageArr[7]} title={titleArr[7]} />
+                            <FirstSliderItem image={imageArr[8]} title={titleArr[8]} />
+                            <FirstSliderItem image={imageArr[9]} title={titleArr[9]} />
+
+                        </Slider>
+                    </div>
                 </div>
-            </div>
+            </>
         );
     }
 }
