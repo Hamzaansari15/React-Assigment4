@@ -1,12 +1,12 @@
 import Heading from "./heading/heading";
-import SwipeToSlide from "./slider/slider";
-import SecondSliderItem from "./slider/secondslideritem";
+import {SwipeToSlide, SecondSlider} from "./slider/slider";
+
 const Body = () => {
     return(
         <div>
             <Heading/>
             <SwipeToSlide/> 
-            <SecondSliderItem/>
+            <SecondSlider/>
         </div>
     )
 }

@@ -47,11 +47,11 @@
 }
 #host_box{
     width: fit-content;
-    height: fit-content;
+    height: 2.1em;
     border: 1.5px solid #414143;
-    font-size: 13px;
+    font-size: 14px;
     margin: 0px 12px;
-    padding: 4px 10px;
+    padding: 2px 6px;
     text-decoration: none;
     color: #414143;
     background-color: #fff;
@@ -60,7 +60,7 @@
 }
 #host_box:hover,#icon:hover{
     background-color: #E7E7E8;
-    transition: all 1s;
+    transition: all 0.7s;
 }
 #icon {
     margin: 0px 12px;
