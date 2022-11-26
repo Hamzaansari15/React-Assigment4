@@ -95,6 +95,7 @@
 }
 .slider_image2{
     width: 28em;
+    cursor: pointer;
 }
 .slider_caption{
     width: 28em;
@@ -158,4 +159,69 @@
 .slider_btn:hover{
     background-color: #1900a4;
 }
+
+
+
 /*        WORKING       FOR      THIRD      SLIDER */
+
+
+
+
+.main_slider3{
+    display: flex;
+    justify-content: center;
+}
+.slider3{
+    width: 64em;
+    height: 12em;
+    margin-bottom: 5em;
+}
+@media only screen and (max-width: 1080px){
+    .slider3{
+        width: 90%;
+    }  
+}
+.slider_box2{
+    height: 12em;
+    padding: 6px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;   
+    background-color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.slider_box2:hover{
+    box-shadow: 0 2px 8px 2px rgb(35 31 32 / 30%), 0 0 1px 0 rgb(35 31 32 / 20%);      
+
+}
+.slider_image3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.slider_box2 img {
+    width: 120px;
+    height: 120px;
+}
+@media only screen and (max-width: 350px) {
+    .slider_box2 img{
+        width: 150px;
+        height: 150px;
+    }
+    .slider_box2{
+        height: 14em;
+        width: 15em;
+    }
+    .slider3{
+        margin-left: 0em;
+        width: 80%;
+    }
+}
+
+.image2{
+    position: absolute;
+    opacity: 0;
+}
+.image2:hover{
+    opacity: 1;
+    z-index: 10;
+}
