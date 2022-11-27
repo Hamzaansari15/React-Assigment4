@@ -56,3 +56,118 @@
         line-height: 60px;
     }
 }
+.second_heading{
+    font-size: 48px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: #121214;
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 60px;
+}
+.heading_text{
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 450;
+    color: #121214;
+    text-align: center;
+    word-spacing: 2px;
+}
+.heading_btn{
+    display: flex;
+    justify-content: center;
+}
+.heading_btn button {
+    width: fit-content;
+    height: fit-content;
+    color: #fff;
+    background-color: #593cfb;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Helvetica, sans-serif;
+    padding: 13px;
+    transition: all 0.7s;
+}
+.heading_btn button:hover{
+    background-color: #1900a4;
+}
+.mian_image_section{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.background_image{
+    width: 55em;
+    height: 28em;
+    background-image: url(https://blog.turo.com/blog/wp-content/uploads/2021/04/Kyle_Engman_21-copy-2_lesssmall.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text_box{
+    width: 65em;
+    height: 28em;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.main_text_div{
+    position: absolute;
+    left: 0%;
+    top: 18%;
+}
+.div_text{
+    width: 22em;
+    height: 17.8em;
+    background-color: #121214;
+    color: #fff;
+    padding: 24px;
+    font-family: Helvetica, sans-serif;
+}
+.first_line{
+    font-size: 11px;
+    font-weight: 800;
+}
+.second_line{
+    font-size: 24px;
+    font-weight: 700;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    line-height: 32px;
+}
+.text_link a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+.text_link a:hover{
+    color: #fff;
+}
+@media screen and (max-width: 900px) {
+    .background_image{
+        width: 40em;
+    }
+}
+@media screen and (max-width: 670px){
+    .background_image{
+        width: 30em;
+        background-position: center;
+    }
+    .main_text_div{
+        left: auto;
+        top: 85%;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+@media screen and (max-width: 550px){
+    .background_image{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 400px){
+    .div_text{
+        width: 90%;
+    }
+}
