@@ -151,19 +151,17 @@
 }
 @media screen and (max-width: 670px){
     .background_image{
-        width: 30em;
+        width: 100%;
+        background-position: calc(right - 10%);
+    }
+}
+@media screen and (max-width: 580px){
+    .background_image{
+        width: 100%;
         background-position: center;
     }
     .main_text_div{
-        left: auto;
-        top: 85%;
-        display: flex;
-        justify-content: flex-end;
-    }
-}
-@media screen and (max-width: 550px){
-    .background_image{
-        width: 100%;
+        top: 80%;
     }
 }
 @media screen and (max-width: 400px){
