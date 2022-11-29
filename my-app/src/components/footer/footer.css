@@ -1,0 +1,39 @@
+.main_footer{
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+    border-top: 1px solid #676767;
+    margin-top: 7em;
+}
+.footer{
+    width: 60em;
+    height: fit-content;
+    margin: 3em 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer_list ul{
+    list-style: none;
+    font-family: Helvetica, sans-serif;
+    cursor: pointer;
+    color: #121212;
+}
+.footer_heading{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.footer_text{
+    font-size: 16px;
+    font-weight: 550;
+    line-height:40px;
+}
+.icon_first_line span{
+    font-size: 26px;
+    cursor: pointer;
+    color: #121212;
+}
+.icon_second_line, .icon_third_line{
+    cursor: pointer;
+}
