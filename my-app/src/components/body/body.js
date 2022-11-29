@@ -1,5 +1,5 @@
 import {Heading, SecondHeading, ImageSection} from "./heading/heading";
-import {FirstSlider, SecondSlider, ThirdSlider, FourthSlider} from "./slider/slider";
+import {FirstSlider, SecondSlider, ThirdSlider, FourthSlider, FifthSlider} from "./slider/slider";
 
 const Body = () => {
  
@@ -15,6 +15,7 @@ const Body = () => {
             <SecondHeading/>
             <ImageSection/>
             <FourthSlider/>
+            <FifthSlider/>
         </div>
     )
 }
