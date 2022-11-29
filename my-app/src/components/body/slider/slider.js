@@ -313,7 +313,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/ee089eef85/illo_city_honolulu_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Miami</h5>
                             </div>
                         </div>
                     </div>
@@ -324,7 +324,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="	https://resources.turo.com/f/81934/240x240/8b414f123e/illo_city_denver_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Honolulu</h5>
                             </div>
                         </div>
                     </div>
@@ -335,7 +335,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/957c774400/illo_city_london_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Denver</h5>
                             </div>
                         </div>
                     </div>
@@ -346,17 +346,17 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/f40b3c1e95/illo_city_toronto_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">London</h5>
                             </div>
                         </div>
                     </div>
-                    <div className="slider_box2 mx-2 my-2">
+                    <div className="slider_box2 my-2">
                         <div className="slider_image3">
                             <img className="image1 mt-2" src="https://resources.turo.com/f/81934/240x240/101ea2791a/illo_city_jerseycity-2x.png" />
                             <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/8a4598d799/illo_city_jerseycity_hover-2x.png" />
                         </div>
                         <div className="slider_text3">
-                            <h5 className="slider_text">Los Angeles</h5>
+                            <h5 className="slider_text">Tornoto</h5>
                         </div>
                     </div>
                     <div>
@@ -366,7 +366,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="	https://resources.turo.com/f/81934/240x240/3f9757ed81/illo_city_sanfrancisco_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Jersey City</h5>
                             </div>
                         </div>
                     </div>
@@ -377,7 +377,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/1a1efd8d1e/illo_city_atlanta_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">San Francisco</h5>
                             </div>
                         </div>
                     </div>
@@ -388,7 +388,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/b20a87cb5f/illo_city_phoenix_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Atlanta</h5>
                             </div>
                         </div>
                     </div>
@@ -399,7 +399,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="	https://resources.turo.com/f/81934/240x240/48caa5117b/illo_city_orlando_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Phoenix</h5>
                             </div>
                         </div>
                     </div>
@@ -410,17 +410,17 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/c2abf3de26/illo_city_lasvegas_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Orlando</h5>
                             </div>
                         </div>
                     </div>
-                    <div className="slider_box2 mx-2 my-2">
+                    <div className="slider_box2 my-2">
                         <div className="slider_image3">
                             <img className="image1 mt-2" src="https://resources.turo.com/f/81934/240x240/b7eaeead8f/illo_city_dallas-2x.png" />
                             <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/34f2d3a05f/illo_city_dallas_hover-2x.png" />
                         </div>
                         <div className="slider_text3">
-                            <h5 className="slider_text">Los Angeles</h5>
+                            <h5 className="slider_text">Las Vegas</h5>
                         </div>
                     </div>
                     <div>
@@ -430,7 +430,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/158f7fa72b/illo_city_washingtondc_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Dallas</h5>
                             </div>
                         </div>
                     </div>
@@ -441,7 +441,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/6512407c18/illo_city_chicago_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Washington DC</h5>
                             </div>
                         </div>
                     </div>
@@ -452,7 +452,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="	https://resources.turo.com/f/81934/240x240/29eb3f7660/illo_city_houston_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Chicago</h5>
                             </div>
                         </div>
                     </div>
@@ -463,7 +463,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="	https://resources.turo.com/f/81934/240x240/9a4ae77dbb/illo_city_sandiego_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">Huston</h5>
                             </div>
                         </div>
                     </div>
@@ -474,7 +474,7 @@ const ThirdSlider = () => {
                                 <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/1a1fdfb037/illo_city_boston_hover-2x.png" />
                             </div>
                             <div className="slider_text3">
-                                <h5 className="slider_text">Los Angeles</h5>
+                                <h5 className="slider_text">San Diego</h5>
                             </div>
                         </div>
                     </div>
@@ -485,7 +485,7 @@ const ThirdSlider = () => {
                             <img className="mt-2 image2" src="https://resources.turo.com/f/81934/240x240/76b4007676/illo_city_losangeles_hover-2x.png" />
                         </div>
                         <div className="slider_text3">
-                            <h5 className="slider_text">Los Angeles</h5>
+                            <h5 className="slider_text">Boston</h5>
                         </div>
                     </div>
                 </Slider>
@@ -585,7 +585,7 @@ const FifthSlider = () => {
                 }
             },
             {
-                breakpoint: 820,
+                breakpoint: 930,
                 settings: {
                     slidesToShow: 2,
                     slidesToScroll: 1,
@@ -593,7 +593,7 @@ const FifthSlider = () => {
                 }
             },
             {
-                breakpoint: 550,
+                breakpoint: 580,
                 settings: {
                     slidesToShow: 1,
                     slidesToScroll: 1
@@ -604,172 +604,186 @@ const FifthSlider = () => {
 
     return (
         <div>
-            <div className='container'>
+            <div className='container mb-3'>
                 <div className='second_heading'>Meet the Hosts</div>
             </div>
-            <div className="main_slider5">
+            <div className="main_slider5 mb-5">
                 <div className="slider5">
-                    <h2> Responsive </h2>
+                    <h2 className="my-3"> Top hosts on Turo</h2>
                     <Slider {...settings}>
-                        <div className="slider_box5">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="https://images.turo.com/media/driver/edc4lzlWTHGwKOpT3WF4Og.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="https://images.turo.com/media/driver/edc4lzlWTHGwKOpT3WF4Og.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-Star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>Awesome car and host!!!</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="slider_box5 mr-3">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="https://images.turo.com/media/driver/ilzDqc7oT7mtsDWlsxeKlQ.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5 mr-3">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="https://images.turo.com/media/driver/ilzDqc7oT7mtsDWlsxeKlQ.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>Fantastic car and amazing host.</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="slider_box5 mr-3">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="	https://images.turo.com/media/driver/kFR_K6gDQ4ivXlIQXyaC-w.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5 mr-3">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="	https://images.turo.com/media/driver/kFR_K6gDQ4ivXlIQXyaC-w.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-Star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>Best services</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="slider_box5 mr-3">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="https://images.turo.com/media/driver/f_VkwIWpQ-WIMrha_oRisQ.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5 mr-3">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="https://images.turo.com/media/driver/f_VkwIWpQ-WIMrha_oRisQ.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-Star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>Thanks for being responsive.</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="slider_box5 mr-3">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="	https://images.turo.com/media/driver/bL03pkUGQ4GgZv-y1XzKRw.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5 mr-3">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="	https://images.turo.com/media/driver/bL03pkUGQ4GgZv-y1XzKRw.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-Star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>So easy and awesome foks.</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="slider_box5 mr-3">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="https://images.turo.com/media/driver/qvlYSNqeStqcMJv2Lbq8MA.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5 mr-3">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="https://images.turo.com/media/driver/qvlYSNqeStqcMJv2Lbq8MA.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-Star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>Wonderful person for rent a car from!</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="slider_box5 mr-3">
-                            <div className="top_section mt-2">
-                                <div className="top_image"><img src="https://images.turo.com/media/driver/GYXLNy3eTj-9112VMxeI0g.160x160.jpg" /></div>
-                                <div className="top_text mx-3 mb-2">
-                                    <h5>Kevin M.</h5>
-                                    <div className="top_inner_text">
-                                        <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
-                                        <span className="mx-1">All-Star Host</span>
+                        <div className="main_box">
+                            <div className="slider_box5 mr-3">
+                                <div className="top_section mt-2">
+                                    <div className="top_image"><img src="https://images.turo.com/media/driver/GYXLNy3eTj-9112VMxeI0g.160x160.jpg" /></div>
+                                    <div className="top_text mx-3 mb-2">
+                                        <h5>Kevin M.</h5>
+                                        <div className="top_inner_text">
+                                            <svg width="14px" height="14px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="All-Star Host" aria-labelledby="allStarHostLabel" class="seo-pages-0" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m19.585 13.072 2.257 2.76a.7.7 0 0 1-.404 1.128l-2.871.575-1.18 3.538a.698.698 0 0 1-.664.478.7.7 0 0 1-.593-.326l-2.376-3.771a.554.554 0 0 1 .294-.826 8.623 8.623 0 0 0 4.649-3.525c.201-.31.655-.315.888-.03Zm-15.169 0c.234-.284.688-.278.889.03a8.62 8.62 0 0 0 4.648 3.526c.345.108.487.52.294.826l-2.376 3.77a.703.703 0 0 1-1.258-.151l-1.18-3.538-2.87-.574a.698.698 0 0 1-.404-1.13l2.257-2.758Zm11.242-5.249-1.715 1.455.522 2.171a.383.383 0 0 1-.574.417l-1.89-1.174-1.89 1.173a.383.383 0 0 1-.576-.417l.524-2.17-1.714-1.451a.384.384 0 0 1 .215-.678l2.242-.157.843-2.039a.383.383 0 0 1 .709 0l.843 2.039 2.24.155a.384.384 0 0 1 .22.676ZM12 2a6.667 6.667 0 1 0 .001 13.334 6.667 6.667 0 0 0 0-13.334Z" fill="#121214"></path></svg>
+                                            <span className="mx-1">All-Star Host</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="middle-section mt-4 mb-2">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
-                            </div>
-                            <div className="bottom_section">
-                                <p>Awesome car and host!!!</p>
-                                <p className="small_font">Donna S. - Nov 2022</p>
+                                <div className="middle-section mt-4 mb-2">
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="seo-pages-1moeh8l" role="img" version="1.1"><path fill-rule="evenodd" clip-rule="evenodd" d="m15.153 8.498 5.906.41c.904.064 1.274 1.197.582 1.783l-4.52 3.835 1.377 5.72c.212.88-.746 1.576-1.514 1.1L12 18.25l-4.983 3.095c-.77.477-1.727-.22-1.515-1.098l1.379-5.72-4.516-3.829c-.696-.582-.334-1.716.568-1.787l5.907-.413 2.226-5.373c.345-.833 1.522-.833 1.866 0l2.22 5.373Z" fill="#593CFB"></path></svg>
+                                </div>
+                                <div className="bottom_section">
+                                    <p>Car is excellent condition and very clean.</p>
+                                    <p className="small_font">Donna S. - Nov 2022</p>
+                                </div>
                             </div>
                         </div>
                     </Slider>
