@@ -43,6 +43,7 @@
     height: 206px;
     box-shadow: 0 2px 4px 0 rgb(35 31 32 / 20%), 0 0 1px 0 rgb(35 31 32 / 10%);    
     border-radius: 6px;
+    transition: all 0.3s;
 }
 @media only screen and (max-width: 649px){
     .slider_image{
@@ -191,6 +192,8 @@
     background-color: #fff;
     border-radius: 10px;
     cursor: pointer;
+    transition: all 0.3s;
+    margin-right: 12px;
 }
 .slider_box2:hover{
     box-shadow: 0 2px 8px 2px rgb(35 31 32 / 30%), 0 0 1px 0 rgb(35 31 32 / 20%);      
@@ -310,16 +313,48 @@
 }
 .slider5{
     width: 64em;
-    height: 22em;
+    height: 23em;
+}
+.main_box{
+    width: 100%;
 }
 .slider_box5{
-    width: 300px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.3s;
     border-radius: 10px;
     padding: 18px;
-    margin: 12px 12px 12px 0px;
+    margin: 12px;
     height: 18em;
     cursor: pointer;
+}
+.slider_box5:hover{
+    box-shadow: 0 2px 8px 2px rgb(35 31 32 / 30%), 0 0 1px 0 rgb(35 31 32 / 20%);      
+}
+@media only screen and (max-width: 930px){
+    .slider_box5{
+        margin: 12px 1.5em;
+        margin-left: 2em;
+    }
+}
+@media only screen and (max-width: 660px){
+    .slider_box5{
+        margin: 12px 12px;
+    }
+}
+@media only screen and (max-width: 550px){
+    .slider_box5{
+        margin: 12px 4em;
+    }
+}
+@media only screen and (max-width: 580px){
+    .slider_box5{
+        margin: 12px 3em;
+    }
+}
+@media only screen and (max-width: 400px){
+    .slider_box5{
+        margin: 12px 12px;
+    }
 }
 .top_section{
     display: flex;
@@ -353,14 +388,5 @@
     .slider5{
         width: 90%;
         margin: 0px 20px;
-    }
-}
-@media only screen and (max-width: 550px){
-    .slider_box5{
-        display: flex;
-        justify-content: center;
-    }
-    .main_slider5{
-        padding: 16px;
     }
 }
