@@ -255,6 +255,7 @@
 .main_slider4{
     display: flex;
     justify-content: center;
+    padding: 0px 12px;
 }
 .slider4{
     width: 64em;
@@ -265,11 +266,11 @@
     cursor: pointer;
 }
 .slider_image4{
-    margin: 0px 1em;
+    margin: 0px 12px;
 }
 .slider_image4 img{
     margin-top: 2em;
-    width: 100%;
+    width: 280px;
     height: 14em;
     border-radius: 8px;
 }
@@ -292,32 +293,40 @@
         height: 14em;
     }
 }
-@media only screen and (max-width: 930px){
+@media only screen and (max-width: 980px){
     .slider_image4 img{
         height: 12em;
+        width: 250px;
     }
 }
-@media only screen and (max-width: 630px){
+@media only screen and (max-width: 860px){
+    .slider_image4 img{
+        height: 15em;
+        width: 300px;
+    }
+}
+@media only screen and (max-width: 700px){
     .slider_image4 img{
         height: 12em;
+        width: 250px;
     }
 }
 @media only screen and (max-width: 580px){
     .main_slider4{
         margin-top: 15em;
     }
+    .slider_image4 img{
+        height: 17em;
+        width: 330px;
+    }
     
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 400px){
     .slider_image4 img{
-        width: 100%;
-        height: 14em;
-    }
-    .main_slider4{
-        padding: 16px;
+        height: 12em;
+        width: 250px;
     }
 }
-
 
 /*                        WORKING FOR   FIFTH SLIDER              */
 
