@@ -31,16 +31,25 @@
 .slick-next:before{
     margin-right: 6px;
 }
+.center{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 .slider_box {
     margin: 0px 8px 8px 8px;
     text-decoration: none;
     display: flex;
     justify-content: center;
     cursor: pointer;
+    width: 200px;
+}
+@media screen and (max-width: 480px) {
+    .slider_box{
+        width: 250px;
+    }
 }
 .slider_image {
-    width: 190px;
-    height: 206px;
     box-shadow: 0 2px 4px 0 rgb(35 31 32 / 20%), 0 0 1px 0 rgb(35 31 32 / 10%);    
     border-radius: 6px;
     transition: all 0.3s;
@@ -103,6 +112,12 @@
 }
 .slider_caption{
     width: 28em;
+}
+@media screen and (max-width: 400px) {
+    .swiper-button-next::after, .swiper-button-prev::after{
+        display: none;
+        opacity: 0;
+    }
 }
 @media only screen and (max-width: 1060px) {
     .slider_caption{
@@ -179,6 +194,7 @@
     width: 64em;
     height: 12em;
     margin-bottom: 5em;
+    margin-left: 16px;
 }
 @media only screen and (max-width: 1080px){
     .slider3{
@@ -186,6 +202,7 @@
     }  
 }
 .slider_box2{
+    width: 160px;
     height: 12em;
     padding: 6px;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;   
@@ -193,7 +210,6 @@
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.3s;
-    margin-right: 12px;
 }
 .slider_box2:hover{
     box-shadow: 0 2px 8px 2px rgb(35 31 32 / 30%), 0 0 1px 0 rgb(35 31 32 / 20%);      
@@ -210,12 +226,12 @@
 }
 @media only screen and (max-width: 350px) {
     .slider_box2 img{
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
     }
     .slider_box2{
-        height: 14em;
-        width: 15em;
+        height: 12em;
+        width: 200px;
     }
     .slider3{
         margin-left: 0em;
