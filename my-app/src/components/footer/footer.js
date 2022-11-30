@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './footer.css';
 import { BsFacebook, BsTwitter, BsInstagram, BsYoutube } from "react-icons/bs";
-import { BiCopyright } from "react-icons/bi";
+
 
 const Footer = () => {
     return (
         <div className='main_footer'>
             <div>
-                <div className='footer  container'>
+                <div className='footer container'>
                     <div className='footer_item'>
                         <div className='footer_list'>
                             <ul>
@@ -52,7 +52,7 @@ const Footer = () => {
                             </ul>
                         </div>
                     </div>
-                    <div className='footer_icon'>
+                    <div className='footer_icon mx-3'>
                         <div className='icon_first_line'>
                             <span className='mx-2'><BsFacebook /></span>
                             <span className='mx-2'><BsTwitter /></span>
