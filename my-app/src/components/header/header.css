@@ -80,7 +80,7 @@
     background-image: url(//resources.turo.com/f/81934/1500x400/1b78692b7b/hp_ny_1500x400_2.jpg);
     background-position-y: center;
     background-position-x: calc(100% - 40%);
-}
+} 
 #main_date_peaker{
     width: 90%;
     height: 6.75em;
@@ -100,6 +100,7 @@
     align-items: center;
     padding: 0px 16px;
 }
+/*
 #date_peaker input{
     border: none;
     outline: none;
@@ -112,4 +113,4 @@
 .date_picker{
     width: 15em;
     margin: 0px 4px;
-}
+} */
