@@ -1,10 +1,12 @@
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './slider.css';
+import { useRef } from "react";
 
 
 
 const FirstSliderItem = (props) => {
+   
     return (
        <div className="center">
          <a className='slider_box'>
