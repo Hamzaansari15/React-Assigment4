@@ -1,6 +1,9 @@
 import './header.css';
 import DatePicker from './datePicker';
 const Header = () => {
+    
+        
+   
     return (
         <div className='main_header'>
             <div className='header_First_section'>
@@ -16,7 +19,8 @@ const Header = () => {
             <div id='banner'>
                 <div id='main_date_peaker'>
                     <div id='date_peaker'>
-                       <div> 
+                    {/* <DatePicker/> */}
+                       {/* <div> 
                         <label>Where</label><br/>
                         <input id='location_picker' placeholder='City,airpot,address or hotel' />
                         </div>
@@ -29,7 +33,7 @@ const Header = () => {
                         <label>Until</label><br/>
                         <input className='date_picker' type='date'/>
                         <input className='time_picker' type='time'/>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
