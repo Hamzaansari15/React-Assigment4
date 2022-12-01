@@ -1,3 +1,4 @@
+import { StyleProvider } from '@ant-design/cssinjs';
 import { Cascader } from 'antd';
 const options = [
   {
@@ -13,8 +14,11 @@ const options = [
     label: 'Union Station, los Angelas',
   },
 ];
+const hamza = () => {
+  alert('hamza')
+}
 const onChange = (value) => {
   console.log(value);
 };
-const DatePicker = () => <div className='cascader'><Cascader style={{width: '22em'}} options={options} onChange={onChange} placeholder="City, airport, hotel or address" /></div>;
+const DatePicker = () => <div className='cascader'><Cascader bordered={true}  options={options} size='large' dropdownRender={hamza} onChange={onChange} placeholder="City, airport, hotel or address" /></div>;
 export default DatePicker;
