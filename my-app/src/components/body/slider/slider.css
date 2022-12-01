@@ -285,6 +285,9 @@
     font-family: Helvetica, sans-serif;
     margin-top: 2px;
 }
+.slider_bottm span:hover{
+    text-decoration: underline;
+}
 @media only screen and (max-width: 1100px) {
     .slider4{
         width: 90%;
