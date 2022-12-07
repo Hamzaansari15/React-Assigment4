@@ -87,10 +87,6 @@
     text-align: center;
     margin: 16px 0px 16px 0px;
 }
-#slider_heading{
-    margin-bottom: 1em;
-
-}
    /*    WORKING FOR SECOND SLIDER */
 
 .main_slider2{
@@ -265,6 +261,7 @@
 .main_slider4{
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 0px 12px;
 }
 .slider4{
@@ -272,14 +269,13 @@
     height: 25em;
 }
 .slider_box4{
-    height: 18em;
+    height: 14em;
     cursor: pointer;
 }
 .slider_image4{
     margin: 0px 12px;
 }
 .slider_image4 img{
-    margin-top: 2em;
     width: 280px;
     height: 14em;
     border-radius: 8px;
