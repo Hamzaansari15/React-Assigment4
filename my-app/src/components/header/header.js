@@ -1,10 +1,10 @@
 import './header.css';
-import { useRef, useState } from 'react';
+import { useRef, useState, useEffect } from 'react';
 import { RxCross2 } from "react-icons/rx";
 
 const Header = () => {
 
-const [style, setStyle] = useState();
+const [style, setStyle] = useState('');
 
 const showLogin = useRef()
 
@@ -17,7 +17,9 @@ const showDiv = () => {
 }
 
 const hideDiv = () => {
-    setStyle(showLogin.current.style.display = 'none');
+    setStyle(() => {
+        showLogin.current.style.display = 'none';
+    });
 }
     return (
         <div className='main_header'>
