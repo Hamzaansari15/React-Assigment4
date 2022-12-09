@@ -31,7 +31,7 @@ const ImageSection = () => {
                         <div className='first_line mt-2'>FEATURED TRAVELOGUES</div>
                         <div className='second_line my-3'>An Olymic experience in Washington</div>
                         <div className='third_line'>Disocver the epic waterfalls, moody weather, and lush forests of coastal Washington.</div>
-                        <div className='text_link my-3'><a href='#'>Read more</a></div>
+                        <div className='text_link my-3'><span>Read more</span></div>
                     </div>
                 </div>
 
