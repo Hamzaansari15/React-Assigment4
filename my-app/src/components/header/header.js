@@ -1,10 +1,16 @@
 import { React, useState } from 'react';
 import './header.css';
 import Login from './login';
+import Signup from './signup';
 
 const Header = () => {
 
     const [show, setShow] = useState(false);
+    const [showSignup, setShowSignup] = useState(false);
+
+    const showSignupDiv = () => {
+        setShowSignup(true);
+    }
 
     return (
         <>
@@ -22,7 +28,8 @@ const Header = () => {
                     </div>
                 </div>
                 <div id='banner'>
-                <Login show={show} onClose={() => setShow(false)}/>
+                <Login showSignupDiv = {showSignupDiv} show={show} onClose={() => setShow(false)}/>
+                {showSignup && <Signup onClose={() => setShowSignup(false)} />}
                 </div>
             </div>
         </>
