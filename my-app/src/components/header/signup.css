@@ -1,0 +1,171 @@
+.main_signup{
+    position: relative;
+    top: -4em;
+    z-index: 100;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
+.signup{
+    position: relative;
+    top: 2em;
+    align-items: center;
+    width: 32em;
+    height: 73vh;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+    overflow-y: visible;
+    animation-name: signup-animation;
+    animation-duration: 0.3s;
+    animation-iteration-count: 1;
+}
+@media screen and (max-height: 800px) {
+    .signup{
+    overflow-y: scroll;
+    }
+}
+#cancel_icon{
+   width: 100%;
+   display: flex;
+   justify-content: flex-end;
+   position: relative;
+   top: 16px;
+   right: 16px;
+}
+.signup_heading{
+    margin: 48px 0px 24px 0px;
+    display: flex;
+    justify-content: center;
+}
+.signup_heading h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    letter-spacing: -1px;
+    color: #000;
+    font-weight: 700;
+}
+.login_section{
+    position: relative;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 8px auto;
+    animation-name: Login-animation;
+    animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+}
+.login_section input[type = password], .login_section input[type = email]{
+    height: 35px;
+    font-size: 13px;
+    font-family: Helvetica, sans-serif;
+    border: 1px solid #c7c7c7;
+    padding: 0px 8px;
+    outline: none;
+    transition: all 0.5s;
+}
+.login_section input[type = password]:focus, .login_section input[type = email]:focus{
+    background-color: #e8f0fe;
+    border: 1px solid rgb(71, 10, 180);
+}
+.login_section label {
+    margin: 8px 0px 2px ;
+    color: #000;
+    font-size: 12px;
+    font-family: Helvetica, sans-serif;
+}
+#login_btn{
+    margin: 24px 0px 48px;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    padding: 6px 0px 10px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    background-color: #593cfb; 
+    transition: all 1s;
+} 
+#or{
+    text-align: center;
+}
+#login_btn:hover{
+    background-color: #1900a4;
+}
+.signup_section{
+    position: relative;
+    top: -1em;
+    margin-top: 8em;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.signup_section button{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    margin: 12px auto;
+    outline: none;
+    border: 1px solid #000;
+    background-color: #fff;
+    color: #000;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 550;
+    transition: all 0.5s;
+}
+.signup_section button:hover, .signup_btn button:hover{
+    border-color: rgb(71, 10, 180);
+    background-color: #e8f0fe;
+}
+.icon{
+    margin: 0px 6px 4px 0px;
+}
+.signup_btn{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 1em 0px 3em;
+}
+.signup_btn button{
+    position: relative;
+    top: -4px;
+    width: 80px;
+    height: 32px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Helvetica, sans-serif;
+    color: #000;
+    border: 1px solid #000;
+    margin-left: 12px;
+}
+@media screen and (max-width: 450px) {
+    .main_signup{
+        top: -27.5%;
+        right: 0%;
+    }
+    .signup{
+        width: 100%;
+        height: 100vh;
+    }
+}
+@keyframes signup-animation {
+    from{
+        scale: 0;
+    }
+    to{
+        scale: 1;
+    }
+}
+@keyframes Login-animation {
+    from{
+        top: -15%;
+    }
+    to{
+        top: 0%;
+    }
+}
