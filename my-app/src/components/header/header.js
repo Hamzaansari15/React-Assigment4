@@ -2,15 +2,18 @@ import { React, useState } from 'react';
 import './header.css';
 import Login from './login';
 import Signup from './signup';
+import SignupForm from './signupForm';
 
 const Header = () => {
 
     const [show, setShow] = useState(false);
     const [showSignup, setShowSignup] = useState(false);
+    const [signup, setSignup] = useState(false);
 
     const showSignupDiv = () => {
         setShowSignup(true);
     }
+
 
     return (
         <>
@@ -29,7 +32,8 @@ const Header = () => {
                 </div>
                 <div id='banner'>
                 <Login showSignupDiv = {showSignupDiv} show={show} onClose={() => setShow(false)}/>
-                {showSignup && <Signup onClose={() => setShowSignup(false)} />}
+                {showSignup && <Signup showSignupForm = {() => {setSignup(true); setShowSignup(false)} }  onClose={() => setShowSignup(false)} />}
+                {signup && <SignupForm onLogin={() => {setSignup(false); setShowSignup(true)}} onClose={() => setSignup(false)}/>}
                 </div>
             </div>
         </>
