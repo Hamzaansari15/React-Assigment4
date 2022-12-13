@@ -5,8 +5,9 @@
     width: 100%;
     height: 100vh;
     display: flex;
+    align-items: center;
     justify-content: center;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 .signup{
     position: relative;
@@ -27,12 +28,20 @@
     overflow-y: scroll;
     }
 }
-#cancel_icon{
+@media screen and (max-width: 450px) {
+    .signup{
+        top: 0%;
+        width: 100%;
+        height: 100vh;
+        border-radius: 0%;
+    }
+}
+#cancel1_icon{
    width: 100%;
    display: flex;
    justify-content: flex-end;
    position: relative;
-   top: 16px;
+   top: 20px;
    right: 16px;
 }
 .signup_heading{
